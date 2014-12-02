@@ -7,8 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-
 @interface CreditCardCell ()
 
 @end
-
