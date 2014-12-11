@@ -1,6 +1,7 @@
 // View Life Cycle
 // Adds the main view controller lifecycle methods
 //
+// IDECodeSnippetCompletionPrefix: lifecycle
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 1EE4FF4E-AE27-48F8-8A73-60F092AFC55F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
