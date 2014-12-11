@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 1EE4FF4E-AE27-48F8-8A73-60F092AFC55F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - UIView
 
 - (void)viewDidLoad {
