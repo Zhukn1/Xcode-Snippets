@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 84E7F8FC-99A8-48A6-A4E2-D5CBE99257EC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - Singleton
 
 + (instancetype)shared<#ClassName#> {
