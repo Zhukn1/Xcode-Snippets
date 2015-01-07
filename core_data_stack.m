@@ -1,9 +1,11 @@
 // Core Data Stack
 // 
 //
-// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetCompletionPrefix: coreDataStack
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 6FA926A5-F337-4EB4-9F4B-1097A1A669AB
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 #pragma mark - Core Data stack
