@@ -1,9 +1,9 @@
 // Clear Documents Directory
 // 
 //
-// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 8E6F9A21-DA66-4325-8664-B91DB80F80E6
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 - (void)clearDocumentsDirectory {
