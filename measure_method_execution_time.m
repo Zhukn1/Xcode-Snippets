@@ -1,6 +1,7 @@
 // Measure Method Execution Time
 // 
 //
+// IDECodeSnippetCompletionPrefix: measureMethod
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: B20E82F0-5DD1-4ABA-8970-150BCB7E092F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
