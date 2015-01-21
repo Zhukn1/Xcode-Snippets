@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (void)clearDocumentsDirectory {
     NSFileManager *fileManager      = [NSFileManager defaultManager];
     NSArray *paths                  = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory,
