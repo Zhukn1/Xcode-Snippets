@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - Core Data stack
 
 @synthesize managedObjectContext = _managedObjectContext;
