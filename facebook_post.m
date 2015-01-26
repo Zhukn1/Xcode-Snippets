@@ -1,5 +1,5 @@
 // Facebook Post
-// 
+// Facebook post example
 //
 // IDECodeSnippetCompletionPrefix: fbpost
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
