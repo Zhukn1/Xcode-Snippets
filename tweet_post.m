@@ -1,6 +1,7 @@
 // Tweet Post
 // Twitter post example
 //
+// IDECodeSnippetCompletionPrefix: twPost
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 55D97243-2EC1-4858-B9DC-E0C5D60293C2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
