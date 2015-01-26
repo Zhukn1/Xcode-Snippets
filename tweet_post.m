@@ -1,9 +1,10 @@
 // Tweet Post
-// 
+// Twitter post example
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 55D97243-2EC1-4858-B9DC-E0C5D60293C2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 - (IBAction)ButtonPressed:(id)sender {
