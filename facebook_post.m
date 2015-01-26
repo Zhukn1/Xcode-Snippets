@@ -1,6 +1,7 @@
 // Facebook Post
 // 
 //
+// IDECodeSnippetCompletionPrefix: fbpost
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 3E0E11F2-6E0A-4E50-A3AB-B61F90D1177D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
