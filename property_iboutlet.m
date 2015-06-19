@@ -8,4 +8,4 @@
 // IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-    @IBOutlet weak private var <#name#>: <#class#> = <#class#>
+@IBOutlet weak private var <#name#>: <#class#> = <#class#>
