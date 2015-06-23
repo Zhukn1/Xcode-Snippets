@@ -7,5 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 2
+// IDECodeSnippetVersion: 0
 @IBOutlet weak private var <#name#>: <#class#> = <#class#>
