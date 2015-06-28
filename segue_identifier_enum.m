@@ -8,5 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 enum segueIdentifier {
-    case <#name = <#name#>
+    case <#name#> = <#name#>
 }
