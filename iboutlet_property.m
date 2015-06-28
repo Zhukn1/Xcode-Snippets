@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-@IBOutlet weak private <#type#> *<#name#>;
+@IBOutlet weak private <#type#> *<#name#>
