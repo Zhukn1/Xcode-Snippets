@@ -7,6 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-enum segueIdentifier {
+enum segueIdentifier: String {
     case <#name#> = <#name#>
 }
