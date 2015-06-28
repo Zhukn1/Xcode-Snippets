@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-@IB@property (weak, nonatomic) IBOutlet <#type#> *<#name#>;
+@IBOutlet@property (weak, nonatomic) IBOutlet <#type#> *<#name#>;
